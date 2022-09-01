@@ -1,0 +1,23 @@
+.container h1{
+   text-align: center;
+ }
+/* to make a background for the calculator */
+.container{
+    background:violet;
+    box-shadow: 0px 4px 5px 5px #e5f1fb;
+    border-radius: 8px;
+    padding: 30px;
+    width: 400px;
+   margin: 100px auto;
+}
+.items-center{
+    align-items: center;
+}
+.flex{
+    display:flex;
+}
+.flex-dir{
+    flex-direction: column; 
+}
+
+

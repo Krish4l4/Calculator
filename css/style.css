@@ -1,0 +1,26 @@
+
+html,body{
+    height:100%;
+    width:100%;
+} 
+.button{
+    padding:15px;
+    margin:3px;
+    border:2px solid black;
+    border-radius: 9px;
+    width:50px;
+    
+}
+.calculator .row{
+    margin:center;
+    flex-direction:column;
+    display:auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+.row input{
+    font-size: 18px;
+    margin:0px;
+    padding:10px 4px;
+    border:2px solid black; 
+    border-radius: 9px;
+}
